@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11  -shared -Wl,-soname,libdynacore_Goldfarb.so -o libdynacore_Goldfarb.so CMakeFiles/dynacore_Goldfarb.dir/Array.cc.o CMakeFiles/dynacore_Goldfarb.dir/QuadProg++.cc.o 
